@@ -225,6 +225,9 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x never ~*y":   [
+    "John Travolta is a man, not a meme",
+  ],
 };
 
 var default_responses = [
